@@ -1,5 +1,5 @@
 # KontortOS
-KontortOS aims at creating an extremely minimalist and clean UI interface, in an OS that requires very little system resources, and can be run on nearly any machine with no problems. The project only recently began, and, due to lack of knowledge in kernel development, has been built off linux. This however, is going to be changed, as a custom kernel, codenamed Kyron F [decision pending] is going to be built, allowing for amazing feature. 
+KontortOS aims at creating an extremely minimalist and clean UI interface, in an OS that requires very little system resources, and can be run on nearly any machine with no problems. The project only recently began, and, due to lack of knowledge in kernel development, has been built off linux. This however, is going to be changed, as a custom kernel, codenamed Kyron is going to be built, allowing for amazing feature. 
 # Compatbility
 KontortOS hopes to incorporate Windows compatibility, running a a custom yet similar version of Wine (https://www.winehq.org/). With this, running EXE applications should be extremely easy, allowing for many users to easily use this OS as their primary OS. 
 # User Friendly
