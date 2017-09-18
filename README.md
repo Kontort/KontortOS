@@ -11,5 +11,4 @@ Information regarding the development of the OS can be found on my website. The 
 https://kontorted.cloud/
 # Updates
 ## 8/2017
-Project will be suspended indefinitely. We will attempt to work from RemixOS, a better port of android, with absolute *trash* compatibility with systems running graphics cards beyond Intel GPU. They also cant support anything but the intel 4th gen processor. We will attemptt to giove it better compatibility and breath into it, the life everyone hopes it can hold. This project will be updated
-# VERY SOON
+Project will be suspended indefinitely.
